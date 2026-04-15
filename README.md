@@ -1,2 +1,16 @@
-# Predictive-Crowd-AI-for-Stampede-Prevention
-Predictive Crowd AI system for real-time stampede prevention using computer vision and machine learning. It detects crowd density, generates heatmaps, analyzes risk levels, and provides early warnings to ensure public safety.
+# 🚨 CrowdGuard AI
+
+AI-based system to detect crowd density and prevent stampedes in real-time.
+
+## Features
+- Real-time crowd detection
+- Density calculation
+- Heatmap visualization
+- Risk prediction
+- Smart alerts
+
+## Tech Stack
+- Python
+- OpenCV
+- YOLOv8
+- Streamlit
